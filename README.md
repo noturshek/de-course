@@ -4,3 +4,4 @@ This repository contains my notes, practice code, and notebooks as I learn data 
 
 Currently learning:
 - Python
+- SQL
